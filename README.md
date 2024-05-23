@@ -67,9 +67,9 @@ Siga estes passos para configurar e executar o projeto:
    ```
 9. **A aplicação tem as seguintes rotas**
    ```bash 
-   http://localhost:3000/digimon/name/:name
+   http://localhost:3000/digimons/name/:name
 
-   http://localhost:3000/digimon/level/:level
+   http://localhost:3000/digimons/level/:level
 
-   http://localhost:3000/digimon/:id
+   http://localhost:3000/digimons/:id
 Agora você deve ser capaz de acessar a aplicação na porta especificada no seu arquivo `.env`.
