@@ -6,7 +6,7 @@
 
 # Descrição do desafio:
 
-Este é um serviço de API desenvolvido para o desafio técnico da [Global Financeiro](https://globalfinanceiro.com.br/). Utilizou-se a seguinte tecnologia: Fastify, Prisma ORM, Zod e PostgreSQL para o banco de dados, permitindo que os dados provenientes da API [Digimon](https://digimon-api.vercel.app/api/digimon) sejam persistidos no banco de dados.
+Este é um serviço de API desenvolvido para o desafio técnico da [Global Financeiro](https://globalfinanceiro.com.br/). Utilizou-se a seguinte tecnologia: NestJs, Prisma ORM e PostgreSQL para o banco de dados, permitindo que os dados provenientes da API [Digimon](https://digimon-api.vercel.app/api/digimon) sejam persistidos no banco de dados.
 
 # Instruções:
 
